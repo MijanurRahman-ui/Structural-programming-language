@@ -1,1 +1,1 @@
-# Sturctural-programing-language
+# Structural programming language
